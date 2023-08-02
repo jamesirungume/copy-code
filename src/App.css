@@ -58,9 +58,9 @@
 .articlePage{
   width: 1850px;
   background-color: #FBFBFB;
-  height: 1500px;
+  height: 1800px;
   position: relative;
-  bottom: 1200px;
+  bottom: 1530px;
   right: 290px;  
   
 }
@@ -99,5 +99,15 @@
   position: relative;
   top: 80px;
   left: 730px;
+
+}
+#goback {
+  background-color: #272727;
+  color: #FBFBFB;
+  padding: 9px 6px;
+  border-radius: 5px;
+  position: relative;
+  right: 850px;
+  margin-top: 20px;
 
 }
